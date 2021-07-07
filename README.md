@@ -1,1 +1,1 @@
-## Automata Wizard
+## Automata Simulator
